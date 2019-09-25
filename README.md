@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section, you'll learn about Git and the Bash command line. You've seen a bit of this from our first section in which you took a look at how to clone a GitHub repository. Now, we'll further investigate how to navigate the command line and use more powerful Git techniques.
+In this section, you'll learn about Git and the Bash command line. You've seen a bit of this from our first section in which you took a look at how to clone a GitHub repository. Now, we'll further investigate how to navigate the command line and use more powerful Git techniques. 
 
 ## Objectives
 
@@ -29,3 +29,8 @@ In this section, you'll take a look at several Git commands including `git add`,
 ## Summary
 
 In this section, you'll take a look at Git and Bash! Get ready to have the preliminary tools that almost all developers consider to be their foundation!
+
+
+```python
+
+```

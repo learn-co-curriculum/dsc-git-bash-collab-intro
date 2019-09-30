@@ -29,8 +29,3 @@ In this section, you'll take a look at several Git commands including `git add`,
 ## Summary
 
 In this section, you'll take a look at Git and Bash! Get ready to have the preliminary tools that almost all developers consider to be their foundation!
-
-
-```python
-
-```
